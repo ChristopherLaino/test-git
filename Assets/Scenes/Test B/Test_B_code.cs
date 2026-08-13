@@ -5,7 +5,7 @@ public class Test_B_code : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        print("Fatto Cacca Minna tosta Scarsa");
+        print("Fatto Cacca Minna Cazzona Scarsa");
     }
 
     // Update is called once per frame
